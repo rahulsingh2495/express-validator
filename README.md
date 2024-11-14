@@ -15,7 +15,7 @@ An [express.js](https://github.com/visionmedia/express) middleware for
 ## Installation
 
 ```
-npm install express-validator
+npm install express-validator by romeo
 ```
 
 Also make sure that you have Node.js 14 or newer in order to use it.
